@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Acciojob-test/static/css/main.8651b612.css",
+    "main.js": "/Acciojob-test/static/js/main.b70724c0.js",
+    "static/js/787.223550ad.chunk.js": "/Acciojob-test/static/js/787.223550ad.chunk.js",
+    "index.html": "/Acciojob-test/index.html",
+    "main.8651b612.css.map": "/Acciojob-test/static/css/main.8651b612.css.map",
+    "main.b70724c0.js.map": "/Acciojob-test/static/js/main.b70724c0.js.map",
+    "787.223550ad.chunk.js.map": "/Acciojob-test/static/js/787.223550ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8651b612.css",
+    "static/js/main.b70724c0.js"
+  ]
+}
