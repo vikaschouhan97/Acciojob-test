@@ -1,0 +1,75 @@
+.footer-content {
+  width: 1100px;
+  border-top: 1px solid black;
+  margin: 53px auto 52px;
+  display: flex;
+}
+.footer-block {
+  width: 170px;
+  margin-right: 30px;
+}
+.footer-block-title {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.1px;
+  color: #252b42;
+  margin: 50px auto auto 0;
+}
+.details p {
+  margin: 10px 0;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+  color: #737373;
+}
+.details {
+  margin-top: 20px;
+}
+.input-field {
+  display: flex;
+  height: 58px;
+  border: 1px solid #23a6f0;
+  border-right: none;
+  margin-top: 20px;
+  border-radius: 8px 0 0 8px;
+  width: 249px;
+  background-color: #F9F9F9;
+}
+.input-field input {
+  border: none;
+  margin: 2px;
+  padding-left: 10px;
+  background-color: #F9F9F9;
+}
+.input-field button {
+  background-color: #23a6f0;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 0 8px 8px 0;
+  width: 130%;
+}
+.enter-mail {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 28px;
+  letter-spacing: 0.2px;
+  color: #737373;
+  margin-top: 0;
+}
+.footer-made {
+  background-color: #fafafa;
+  text-align: center;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+  color: #737373;
+  margin-top: 70px;
+}
+.subscribe-button{
+  cursor: pointer;
+  height: 103%;
+}

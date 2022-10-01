@@ -1,0 +1,16 @@
+.footer{
+    margin-top: 95px;
+}
+
+.footer-heading{
+    display: flex;
+}
+.footer-heading-title{
+    margin: 0 auto 0 210px;
+}
+.svg{
+    margin: 0 258px 0 auto;
+}
+.svg-middle{
+    margin: 0 22px;
+}

@@ -1,0 +1,71 @@
+.navbar {
+  margin-left: 34px;
+  display: flex;
+}
+
+.heading {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0.1px;
+  color: #252b42;
+  margin-top: 13px;
+}
+
+.left-content {
+  margin-left: 98px;
+  margin-top: 16.5px;
+}
+
+.left-content a {
+  margin: 0 7.5px;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  color: #737373;
+}
+
+.about {
+  margin-left: 30px !important;
+}
+
+.right-content {
+  margin-left: auto;
+  margin-top: 17px;
+}
+
+.right-content a, .right-content-icons a{
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #23a6f0;
+    margin-left: 5px;
+}
+
+.svg-icon{
+    margin-left: 30px;
+}
+
+.navbar-h3{
+    display: inline;
+    font-weight: 400;
+    font-size: 16px;
+    margin: 3px;
+    color: #23a6f0;
+}
+
+.right-content-icons{
+    margin-top: 21px;
+    padding-right: 34px;
+}
+
+.shop{
+ font-weight: 500 !important;
+color: #252B42 !important;
+}
